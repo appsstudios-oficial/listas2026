@@ -34,6 +34,7 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master
 #EXTINF:-1 group-title="Noticias",san juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
 
+
 #EXTINF:-1 group-title="-",00 ATV HD
 http://181.224.255.210:8001/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="-",00_EXITOSA
