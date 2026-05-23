@@ -1,224 +1,242 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV PREMIUM", A&E HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a047&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AMC HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AXN HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Adult Swim
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Animal Planet HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00k&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", BETHEL TV
-http://tecnotv.club/s3f1/phpcode/android.php?c=a033&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Baby TV
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CNN EspaÃ±ol
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03k&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CableNoticias
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03b&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal 13 HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal Caracol
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02w&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal Institucional
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal RCN
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02e&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal Uno
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal del Congreso
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Capital
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01z&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cartoon Network HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a010&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cartoonito
-http://tecnotv.club/s3f1/phpcode/android.php?c=a039&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cinecanal HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01w&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cinemax HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", City TV
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Comedy Central HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CristovisiÃ°n
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Channel
-http://tecnotv.club/s3f1/phpcode/android.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery H&H HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a024&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01x&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Science
-http://tecnotv.club/s3f1/phpcode/android.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Theater HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery World HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02b&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Disney HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01v&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Disney Junior
-http://tecnotv.club/s3f1/phpcode/android.php?c=a05y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a09p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 3 HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 4 HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02x&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 6 HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00q&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 7 HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a049&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN Premium HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02z&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ET Canal El Tiempo
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", EWTN
-http://tecnotv.club/s3f1/phpcode/android.php?c=a015&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", El Gourmet HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Enlace
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Eurochannel
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", FX HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a030&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Food Network HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00u&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Gol TV
-http://tecnotv.club/s3f1/phpcode/android.php?c=a05e&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Golden Edge
-http://tecnotv.club/s3f1/phpcode/android.php?c=a05m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Golden HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00w&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO 2
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO Family
-http://tecnotv.club/s3f1/phpcode/android.php?c=a002&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a023&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO POP HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00d&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HTV
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02q&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", History 2
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", History Channel HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Hola TV
-http://tecnotv.club/s3f1/phpcode/android.php?c=a016&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ID - Investigation Discovery
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03z&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ID HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Kanal D Drama
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", La Red HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a017&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Las Estrellas
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Lifetime
-http://tecnotv.club/s3f1/phpcode/android.php?c=a011&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Lolly Kids
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Love Nature
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04g&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MTV HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MTV Live
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", NTN 24 Horas
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03x&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nat Geo HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nick HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00f&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nick Jr
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nick Music
-http://tecnotv.club/s3f1/phpcode/android.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nuestra Tele
-http://tecnotv.club/s3f1/phpcode/android.php?c=a09m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Panamericana
-http://tecnotv.club/s3f1/phpcode/android.php?c=a028&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Pasiones HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Playboy HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00g&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a04j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Senal Colombia
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01q&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sextreme
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01e&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sony
-http://tecnotv.club/s3f1/phpcode/android.php?c=a013&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Space HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a007&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Studio Universal HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a009&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sun Channel HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a00e&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TCM
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TLC
-http://tecnotv.club/s3f1/phpcode/android.php?c=a014&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a09e&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT SPORTS HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a008&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT Series HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TRO
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TV Senado
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03q&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TVE
-http://tecnotv.club/s3f1/phpcode/android.php?c=a03r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Teen Nick
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Teleamazonas
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Teleantioquia
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02u&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telecafe
-http://tecnotv.club/s3f1/phpcode/android.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telecaribe
-http://tecnotv.club/s3f1/phpcode/android.php?c=a022&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telefe
-http://tecnotv.club/s3f1/phpcode/android.php?c=a021&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telemundo
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02o&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telenovelas
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01b&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telepacifico
-http://tecnotv.club/s3f1/phpcode/android.php?c=a020&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telesur
-http://tecnotv.club/s3f1/phpcode/android.php?c=a031&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Tooncast
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TyC Sports
-http://tecnotv.club/s3f1/phpcode/android.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CHANNEL HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01h&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Venus
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01d&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Warner Channel HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Win
-http://tecnotv.club/s3f1/phpcode/android.php?c=a02r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Win Sports+ HD
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01a&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Zoom
-http://tecnotv.club/s3f1/phpcode/android.php?c=a01s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",A&E
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",A3 SERIES
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ARTS
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AXN
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a08w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BABY TV
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BOOMERAN
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0c1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",C
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DICOVERY CHANNEL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ep&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISCOVERY TURBO
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0c4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISNEY JR
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EÂ¡
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0by&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FORMULA NOTICIAS
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0be&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FX
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a08x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",H&H
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0c5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO +
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",IMAGEN
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0d5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ISAT
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MC
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0co&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NATGEO LA
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",STUDIO UNIVERSAL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLR
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0em&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT SERIES
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0da&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",VIDEO ROLA
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",history 2
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0dj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",hola tv
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0db&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",milenio
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0dm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",once
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 CANAL 14
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 CNN
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 JUSTICIA TV
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 NOTICIAS DEL CONGRESO
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0az&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 TV UNAM
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ay&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",12661 TVC
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",13 realities
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",13 teleseries
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ADN 40 HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ne&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AMC
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0k8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AYM
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AYM SPORT HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0mk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA 7
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0fm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA 7 HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0la&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA INTER HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0n7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AZTECA UNO
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BABY FIRST
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",BITME
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0np&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 22
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0d7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 5
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL 5 HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0n6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL INFANTIL SD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ot&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CARTOON NETWORK
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CINE LATINO
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0lq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CINEMAX
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a093&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLARO SPORT
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLICK HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0mh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CNN
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0dl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COMEDY CENTRAL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal del Congreso 45.1
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Caracola TV
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nd&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cartonito
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",D pelicula
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISCOVERY ID
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ch&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISTRITO COMEDIA
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ou&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DreamWorks TV Latin America
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0no&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EDGE
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nh&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EL 6
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESTRELLAS
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESTRELLAS HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0le&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EXA TV
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0lr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FAST AND FUN BOX
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FAST FUN HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0mi&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FIGTH BOX
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FILM  &  ARTS
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0k9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GAME TOON
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GINX
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",GOLF CHANNEL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO 2
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO FAMILY
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO MUNDI
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO SIGNATURE
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ji&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HBO XTREME
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HTV
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Justicia TV (Mexico)
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ns&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LAMEJOR TV
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ls&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LIFE TIME
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ci&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTI PREMIER
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTICANAL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0lo&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MULTIPREMIER
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0lp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NBA
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NFL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICK JR
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ck&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",OUTDOOR
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Once niÃ±as y niÃ±os
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",PX SPORTS
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ku&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",RT
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SPACE
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SYFY
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0b1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TELEMUNDO INTER HD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0mg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLC
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLN Telenovelas. SD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0oy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TRACE
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ky&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TVC DEPORTES
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0mj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TVCD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TeleYucatan
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0na&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TyC SPORTS
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNICABLE
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ov&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNIVERSAL
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",WARNER
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",canal 22.2
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",dw espa
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nl&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",el9nueve SD
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ow&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",espn extra
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",fox channel
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a08v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",france 24
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nm&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",letra a
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",teleplay
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ng&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",tnt novelas
+http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
