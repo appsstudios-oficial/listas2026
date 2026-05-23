@@ -238,8 +238,9 @@ http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nm&token=tecnotokenplustv230516F
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bu&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",teleplay
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ng&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",telefe
+http://181.224.255.210:8001/play/a0q5/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",te boys
-https://edge1-vienna-sprintcdn.owphbf24.com/hls2/07/10082/,hppwn8g9knbs_h,lang/eng/hppwn8g9knbs_eng,lang/spa/hppwn8g9knbs_spa,.urlset/master.m3u8?t=Cn0qmyPeGGhihsj_FGEhhYyNj-KgfZXU_PR2LvP89hU&s=1779566713&e=10800&f=50412184&srv=1070&asn=22927&sp=4000&p=0&fr=hppwn8g9knbs
+
 #EXTINF:-1 group-title="TV PREMIUM",tnt novelas
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
