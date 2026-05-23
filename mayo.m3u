@@ -226,8 +226,8 @@ http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0cf&token=tecnotokenplustv230516F
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nu&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",dw espa
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0nl&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",el9nueve SD
-http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ow&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium
+https://tecnotv.club/s3f1/phpcode/deportesla14hd.php?stream=espnpremium&token=tecnotokenplustv230516F
 #EXTINF:-1 group-title="TV PREMIUM",espn extra
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0kf&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",fox channel
