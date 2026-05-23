@@ -21,25 +21,20 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="-",14.2 - LIGA UNO HD
 http://181.224.255.210:8001/play/a0sf/index.m3u8
-#EXTINF:-1 group-title="-",00 - Telefe
+#EXTINF:-1 group-title="-",00 - Telefe Internacional
+http://181.224.255.210:8001/play/a0q5/index.m3u8
+#EXTINF:-1 group-title="-",00 - Telefe Argentina
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779568401~exp=1779575601~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=0b26622b4f1e7c421ec6e9a46d64a4f47db961611189d7624e0f5741489a0811
-#EXTINF:-1 group-title="Noticias",san juan
+#EXTINF:-1 group-title="Noticias",San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
-#EXTINF:-1 group-title="Noticias",america
+#EXTINF:-1 group-title="Noticias",America
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/19340321-0abc-42d8-9e59-d4b4e5f36b44:SCL2/master.m3u8
-
-#EXTINF:-1 group-title="Noticias",tn
+#EXTINF:-1 group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-
-#EXTINF:-1 group-title="Noticias",net tv
+#EXTINF:-1 group-title="Noticias",Net tv
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Noticias",el nueve
-https://www.youtube.com/watch?v=mCvoIRBgMU0
-
-
-
+#EXTINF:-1 group-title="Noticias",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="-",CNN Español
 http://181.224.255.210:8001/play/a0q1/index.m3u8
 #EXTINF:-1 group-title="-",00 - Adult Swim
@@ -50,8 +45,6 @@ http://181.224.255.210:8001/play/a0q3/index.m3u8
 http://181.224.255.210:8001/play/a0q6/index.m3u8
 #EXTINF:-1 group-title="-",00 - Stingray Concerts HD
 http://181.224.255.210:8001/play/a0pu/index.m3u8
-#EXTINF:-1 group-title="-",00 - Telefe
-http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="-",00 ATV HD
 http://181.224.255.210:8001/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="-",00_EXITOSA
