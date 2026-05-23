@@ -30,7 +30,11 @@ http://181.224.255.210:8001/play/a0q6/index.m3u8
 #EXTINF:-1 group-title="-",00 - Stingray Concerts HD
 http://181.224.255.210:8001/play/a0pu/index.m3u8
 #EXTINF:-1 group-title="-",00 - Telefe
-http://181.224.255.210:8001/play/a0q5/index.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779568401~exp=1779575601~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=0b26622b4f1e7c421ec6e9a46d64a4f47db961611189d7624e0f5741489a0811
+#EXTINF:-1 group-title="-",00 el trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8#80efe2afe3d22689fa6f0dd21442706659d84d51bfc335883a670203fab62a45
+
+
 #EXTINF:-1 group-title="-",00 ATV HD
 http://181.224.255.210:8001/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="-",00_EXITOSA
