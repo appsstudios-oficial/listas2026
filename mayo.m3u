@@ -240,7 +240,5 @@ http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0bu&token=tecnotokenplustv230516F
 http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0ng&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",telefe
 http://181.224.255.210:8001/play/a0q5/index.m3u8
-
-
 #EXTINF:-1 group-title="TV PREMIUM",tnt novelas
-http://tecnotv.club/s3f1/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
+http://181.224.255.210:8001/play/a0lv/index.m3u8
