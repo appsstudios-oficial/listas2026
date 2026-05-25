@@ -57,12 +57,12 @@ https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
 #EXTINF:-1 group-title="-",RetroPlus
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
 #EXTINF:-1 group-title="-",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8#fa0a84e600c094ecb045ef7c548907b2ec319905cbb7b29d7a0fedd4492da318
 #EXTINF:-1 group-title="-",Mega Cine Tv
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8#8caf8885be83cbf7ff9a2077d0a8fdbcf4408f3956b72f498a18dd4afda36286
-#EXTINF:-1 group-title="-",Canal Pulpo TV
-https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
 #EXTINF:-1 group-title="-",CNN Español
 http://181.224.255.210:8001/play/a0q1/index.m3u8
 #EXTINF:-1 group-title="-",00 - Adult Swim
