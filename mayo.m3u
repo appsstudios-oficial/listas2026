@@ -47,12 +47,14 @@ http://181.224.255.210:8001/play/a0q5/index.m3u8
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779674734~exp=1779681934~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e80e1e9eff34de8d9caa9e4400302cfb32d9a162ebde236e419182cef85a66da#EXTINF:-1 group-title="-",00 - El Trece
 #EXTINF:-1 group-title="-",00 - America Tv
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/cbdf7fa0-6fd8-418e-82f6-6f0fe592ce22:SCL2/master.m3u8
-#EXTINF:-1 group-title="Noticias",TN
+#EXTINF:-1 group-title="-",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:-1 group-title="Noticias",Net tv
+#EXTINF:-1 group-title="-",Net Tv
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Noticias",Canal 34
+#EXTINF:-1 group-title="-",Canal 34
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
+#EXTINF:-1 group-title="-",Retro Tv
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="-",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
 #EXTINF:-1 group-title="-",CNN Español
