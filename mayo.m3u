@@ -37,13 +37,12 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://181.224.255.210:8001/play/a0sf/index.m3u8
 #EXTINF:-1,CO: WIN SPORTS
 http://cord-cutter.net:8080/mwd3pG/937806/320377
+#EXTINF:-1 group-title="-",00 - El Trece
+http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="-",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="-",00 - Telefe Argentina
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779674734~exp=1779681934~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e80e1e9eff34de8d9caa9e4400302cfb32d9a162ebde236e419182cef85a66da#EXTINF:-1 group-title="-",00 - El Trece
-
-#EXTINF:-1 group-title="-",00 - El Trece
-http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="Noticias",Net tv
