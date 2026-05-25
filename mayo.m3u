@@ -40,8 +40,7 @@ http://cord-cutter.net:8080/mwd3pG/937806/320377
 #EXTINF:-1 group-title="-",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="-",00 - Telefe Argentina
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779656964~exp=1779664164~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=887d42178c8705da11c017043b461e6d4f5dfb4b7a1c476033508c20b3334da6
-#EXTINF:-1,El Trece
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779665614~exp=1779672814~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=4a224940194119eea1cf03b78212ac9593166f4b081f3d59d504a0fab80d37cf
 http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
