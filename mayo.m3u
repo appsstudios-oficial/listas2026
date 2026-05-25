@@ -37,6 +37,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://181.224.255.210:8001/play/a0sf/index.m3u8
 #EXTINF:-1,CO: WIN SPORTS
 http://cord-cutter.net:8080/mwd3pG/937806/320377
+#EXTINF:-1 group-title="-",00 - El Garage
+https://stream1.sersat.com/hls/garagetv.m3u8#b06f1ffac96a94ef4604f24c9f9b020702d219ac07a2532bd99a9b9b73b3c1f4
 #EXTINF:-1 group-title="-",00 - El Trece
 http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="-",00 - Telefe Internacional
@@ -47,8 +49,10 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="Noticias",Net tv
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Noticias",San Juan
+#EXTINF:-1 group-title="Noticias",Canal 34
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#ca42174d8b75392e591eeadffbc116ddec126e021eb4f884a66792e54d0c6df6
+#EXTINF:-1 group-title="-",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
 #EXTINF:-1 group-title="-",CNN Español
 http://181.224.255.210:8001/play/a0q1/index.m3u8
 #EXTINF:-1 group-title="-",00 - Adult Swim
