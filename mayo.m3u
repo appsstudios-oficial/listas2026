@@ -6,9 +6,9 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8#80efe2afe3d22689fa6f0dd21442706
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779853495~exp=1779860695~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e2d3d362275b112baa24f28362f9a835e2ea6c2cd45f996fcd2b4c25b122bb94
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779929765~exp=1779936965~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=ba101d7bbce5e441021fed72e22ccdde75818b9462e152dba707f46f70a1e1d7
 #EXTINF:-1 group-title="Variedades",00 - America Tv
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/6109b554-f1ce-488b-a7d5-e07d54630d28:SCL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/bcfe1520-2f92-45ed-86e8-df030a23bc13:SCL2/master.m3u8
 #EXTINF:-1 group-title="Variedades",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="Variedades",Net Tv
