@@ -10,7 +10,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina 
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780049401~exp=1780056601~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=c6ccc1cf83cac1df8436d61f42e65631c079d933ec583f1d0a3d6b5ca724481a
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780093732~exp=1780100932~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=cb519b378b5ecf2995225857df45a9a24af941061832b64152bb56406ea80357
 #EXTINF:-1 group-title="Variedades",00 - America Tv
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/9aab807c-61b8-4370-8a69-d3b755a63ea9:SCL2/master.m3u8
 #EXTINF:-1 group-title="Variedades",TN
