@@ -6,7 +6,7 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8#1269b3957dab9a86f72ec36c4
 #EXTINF:-1 group-title="Variedades",00 - Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=ec764f544ab1e8791748d49de9fb4082
 #EXTINF:-1 group-title="Variedades",00 - El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina 
