@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Acceso a Lista</title>
     <style>
-        /* Fondo degradado moderno */
         body {
             margin: 0;
             height: 100vh;
@@ -36,10 +35,6 @@
             color: #ff758c;
         }
 
-        #contenido {
-            word-break: break-all;
-        }
-
         .enlace {
             display: block;
             margin-top: 20px;
@@ -49,6 +44,14 @@
             text-decoration: none;
             border-radius: 10px;
             font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.2s, background 0.2s;
+            word-break: break-all;
+        }
+
+        .enlace:active {
+            transform: scale(0.95);
+            background: #e0e0e0;
         }
     </style>
 </head>
@@ -61,8 +64,11 @@
         </div>
 
         <div id="contenido" style="display:none;">
-            <h2>¡Copia tu lista!</h2>
-            <div class="enlace">https://raw.githubusercontent.com/appsstudios-oficial/listas2026/refs/heads/main/junio2026.m3u</div>
+            <h2>Toca el enlace para copiar:</h2>
+            <div class="enlace" id="url-lista" onclick="copiarAlPortapapeles()">
+                https://raw.githubusercontent.com/appsstudios-oficial/listas2026/refs/heads/main/junio2026.m3u
+            </div>
+            <p id="mensaje-feedback" style="margin-top:15px; font-size: 0.9rem; color: #ff758c; opacity: 0; transition: opacity 0.3s;">¡Copiado al portapapeles!</p>
         </div>
     </div>
 
@@ -73,14 +79,21 @@
         var intervalo = setInterval(function() {
             seg--;
             elContador.innerHTML = seg;
-            
             if (seg <= 0) {
                 clearInterval(intervalo);
                 document.getElementById('pantalla').style.display = 'none';
                 document.getElementById('contenido').style.display = 'block';
             }
         }, 1000);
-    </script>
 
+        function copiarAlPortapapeles() {
+            var texto = document.getElementById("url-lista").innerText;
+            navigator.clipboard.writeText(texto).then(function() {
+                var feedback = document.getElementById("mensaje-feedback");
+                feedback.style.opacity = "1";
+                setTimeout(function() { feedback.style.opacity = "0"; }, 2000);
+            });
+        }
+    </script>
 </body>
 </html>
