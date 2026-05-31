@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generando Enlace...</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1e1e2e;
+            color: #cdd6f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .card {
+            background-color: #313244;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            width: 100%;
+            max-width: 400px;
+        }
+        /* Estilos del contador */
+        #timer-section p {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+        #timer {
+            font-size: 4rem;
+            font-weight: bold;
+            color: #f38ba8;
+            margin: 0;
+        }
+        /* Estilos del enlace (ocultos inicialmente) */
+        #link-section {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+        h2 {
+            margin: 0;
+            font-size: 1.5rem;
+            color: #a6e3a1;
+        }
+        .url-box {
+            background-color: #11111b;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #45475a;
+            font-family: monospace;
+            font-size: 0.9rem;
+            color: #89b4fa;
+            word-break: break-all;
+            width: 90%;
+        }
+        button {
+            background-color: #89b4fa;
+            color: #11111b;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1rem;
+            font-weight: bold;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #b4befe;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <div id="timer-section">
+            <p>Generando tu lista en...</p>
+            <div id="timer">5</div>
+        </div>
+
+        <div id="link-section">
+            <h2>Copiar lista</h2>
+            <div class="url-box" id="m3u-url">https://raw.githubusercontent.com/appsstudios-oficial/listas2026/refs/heads/main/junio2026.m3u</div>
+            <button onclick="copiarEnlace()" id="copy-btn">Copiar al portapapeles</button>
+        </div>
+    </div>
+
+    <script>
+        // Lógica del contador
+        let timeLeft = 5;
+        const timerElement = document.getElementById('timer');
+        const timerSection = document.getElementById('timer-section');
+        const linkSection = document.getElementById('link-section');
+
+        const countdown = setInterval(() => {
+            timeLeft--;
+            timerElement.textContent = timeLeft;
+
+            if (timeLeft <= 0) {
+                clearInterval(countdown);
+                // Ocultar contador y mostrar enlace
+                timerSection.style.display = 'none';
+                linkSection.style.display = 'flex';
+            }
+        }, 1000);
+
+        // Función para copiar al portapapeles
+        function copiarEnlace() {
+            const urlText = document.getElementById('m3u-url').innerText;
+            navigator.clipboard.writeText(urlText).then(() => {
+                const btn = document.getElementById('copy-btn');
+                btn.textContent = '¡Copiado!';
+                btn.style.backgroundColor = '#a6e3a1';
+                
+                // Restaurar el botón después de 2 segundos
+                setTimeout(() => {
+                    btn.textContent = 'Copiar al portapapeles';
+                    btn.style.backgroundColor = '#89b4fa';
+                }, 2000);
+            }).catch(err => {
+                console.error('Error al copiar: ', err);
+            });
+        }
+    </script>
+
+</body>
+</html>
