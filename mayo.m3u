@@ -6,7 +6,7 @@ https://edgetvp.global.ssl.fastly.net/b16/ngrp:c7_vivo01_dai_source-20001_all/pl
 #EXTINF:-1 group-title="Variedades",00 - Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=ec764f544ab1e8791748d49de9fb4082
 #EXTINF:-1 group-title="Variedades",00 - El Trece
-https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+http://tecnotv.club/h29n/phpcode/lista01.php?c=a0ft&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina 
