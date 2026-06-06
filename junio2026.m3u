@@ -5,8 +5,7 @@
 # ==========================================
 
 #EXTINF:-1 group-title="Generales",Telefe Internacional
-http://181.224.255.210:8001/play/a0q5/index.m3u8
-#EXTINF:-1 group-title="Generales",(HCO) TELERUMBA
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780786187~exp=1780793387~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=8196c0db87d9e18044dfa0a7092bda0ebd6152238d2ad691a85c2276dc1adc38#EXTINF:-1 group-title="Generales",(HCO) TELERUMBA
 http://38.224.175.2:8000/play/a0mb/index.m3u8
 #EXTINF:-1 group-title="Generales",TV+
 http://38.224.175.2:8000/play/a020/index.m3u8
