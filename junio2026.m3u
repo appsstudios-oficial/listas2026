@@ -124,11 +124,9 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Peliculas y Series",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
 #EXTINF:-1 group-title="Peliculas y Series",Retro TV online
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1463797368.m3u8
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
 #EXTINF:-1 group-title="Peliculas y Series",Retro 80 90
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1463797368.m3u8
-#EXTINF:-1 group-title="Peliculas y Series",Cine 35 mm
-https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
 #EXTINF:-1 group-title="Peliculas y Series",Tele Clasica
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas y Series",Mi Tv
