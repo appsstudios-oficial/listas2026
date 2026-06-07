@@ -125,12 +125,12 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8#6bfa446c4d8189e79c1d7a400fa2c6ef552c34ae266467fe2b6c8dab8770e67a
 #EXTINF:-1 group-title="Peliculas y Series",Retro TV online
 https://stream.enlineatv.net/hls/retrotv/index.m3u8
-#EXTINF:-1 group-title="Peliculas y Series",Retro 80 90
+#EXTINF:-1 group-title="Peliculas y Series",Retrox
 https://stream.enlineatv.net/hls/retrotv/index.m3u8
 #EXTINF:-1 group-title="Peliculas y Series",Tele Clasica
-https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas y Series",Mi Tv
-https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas y Series",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8#fa0a84e600c094ecb045ef7c548907b2ec319905cbb7b29d7a0fedd4492da318
 #EXTINF:-1 group-title="Peliculas y Series",Mega Cine Tv
