@@ -12,7 +12,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781249798/ei/
 #EXTINF:-1 group-title="Variedades",00 - El Nueve
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781249857/ei/4WIraqzFLbiZobIPiOzriAw/ip/2802:8012:c091:9a01:79c5:28a9:eb9:ffb8/id/C1DhpJ07ZuE.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uxax4vopj55gb-jgql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/ar/bui/ARmQxEVwJLOnHgz7OZbiGv2hPyb4wTa7Qsw29THM0DAJGdE9o5ifa7HYIthrSnlmUPW5ATFxY43kC0qz/spc/SQ-umrbSJWP0FiPPpP2VfoEEZjCtrSpbnN-Ao0kwUb51XdQqbA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2005000/met/1781228258,/mh/po/mm/44/mn/sn-uxax4vopj55gb-jgql/ms/lva/mv/m/mvi/2/pl/41/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51946837/mt/1781227945/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgDvvTGE1HHWZngsJOO7Ec4n6uVzd1jiXzMsh0lqCE6Q8CIQDEtbP1QcHN_dbk7uYns66dMN9mnyFMKxojbS3DEVo_Bw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgZQWfvNpoFDonRxK-zVvH_V9R1ePjImP02BjnR1GW3RYCICtOvoEhwG6gNpHM4cGX8KRsfk0dgRbPY-z6yyOvu_Pa/playlist/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8#80efe2afe3d22689fa6f0dd21442706659d84d51bfc335883a670203fab62a45
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina 
