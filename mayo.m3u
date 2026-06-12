@@ -15,9 +15,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781249857/ei/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8#80efe2afe3d22689fa6f0dd21442706659d84d51bfc335883a670203fab62a45
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
-#EXTINF:-1 group-title="Variedades",00 - Telefe Argentina 
-http://tv.m3uts.xyz/stream/secure/yzLAvre9/874.m3u8
-#EXTINF:-1 group-title="Variedades",00 - America Tv
+#EXTINF:-1 group-title="Variedades",00 - Telefe Argentina
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781224717~exp=1781231917~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=025fef51bb37f00b143c24d45ea6eee11377f0b1c57c6f4ff33d2b8ba5b6311c
 #EXTINF:-1 group-title="Variedades",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
