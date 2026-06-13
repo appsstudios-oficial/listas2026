@@ -273,6 +273,10 @@ http://181.224.255.210:8001/play/a0od/index.m3u8
 http://181.224.255.210:8001/play/a0sp/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS
 http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSPORTS (opcon2)
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSPORTS 2
+http://38.224.175.2:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="Deportes",TNT Sports Premiun HD
 http://38.224.175.2:8000/play/a0rb/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD R
