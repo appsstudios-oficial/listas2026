@@ -18,7 +18,7 @@ http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781451554~exp=1781458754~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=9eaefd8bf02fd90a4ccce9158a138908d6cc8fc564c409847749ead0a108256d
+https://mdstrm.com/live-stream-playlist/69e0fb650d9e3eb5340cdd5c.m3u8?uid=Bi0Cq4w35CLzocD4BJlLgkCAQj43JPPv&sid=nHSuqas244Dc0Wf5LUk1zBs3kH4LqEhJ&pid=xORcWwpgfopExAAGBZH81ZAzhUYY6hPH&pid_dvr=RUSUuaMds104DISLyWbINWMf9ejeNe2e&an=Mediastream_Player&at=web-app&av=v7.0.64&ref=https%3A%2F%2Fwww.mitelefe.com%2F&res=410x230&without_cookies=false&listenerid=&dnt=true&access_token=IrPNJbUhT8TOqSKN3Wyga1SunDsyj7U21wuF0Z6F8wvRYYAm3Fg9nUlI2q6jvrrbYCSQ4LXcs8k
 #EXTINF:-1 group-title="Variedades",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="Variedades",Net Tv
