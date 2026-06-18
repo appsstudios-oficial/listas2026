@@ -272,7 +272,7 @@ http://181.224.255.210:8001/play/a0od/index.m3u8
 #EXTINF:-1 group-title="Variedades",Willax
 http://181.224.255.210:8001/play/a0sp/index.m3u8
 #EXTINF:-1 group-title="Deportes",TUDN Mx
-https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=MF8Qo-GLIy-dWX0w6GXBuQ:wtKQ5LjiDxEnObLHYcOL5Oh10Eacn38Q8X1Afrh72OHoNsh1KU9TsXS4OT8afCgS9RAFK6qkQPCrQqzwZCELkEPlcf43LK93mJ2i0HBKBuAwjJ87mKb0juxSyCiklnywBEejKMos2k4EifX7xZ_2FYOd41jL7Emxy8fGoJ0XgsQB9wR_p0pkv2D2CyZdxhyPJh-M0mUHq1CDsZf8FreKshgztvVXNsVatm8e2aTQDlEQQEAUUHBUIALU9f3qti-SSxBv581xymwbSOjWWXu_6VX5vg6LfCegtUyr2oiymps4QUcCtkzDOQ331A9EAgf9IQwH_sIOBDAlZ9IiTSLuWwVlzr9yYi1JhUNS6eQnOswh3LqE3cG1Zmyn7-AUEdNzqRVLOA80G1PPnRB-Ater9tz3JR_yOEh59cN6h1o2i3K9axcOeNm-GCS0U2P2DQSZMQktD_Z1YDJyfUQCQAXxQ8UEi5_GmEffBkxVdLb59NjN-yfxDJ3CuZnGPaGlero7NxdjrgnTHxINV86gO4CD9fgd9AeevzAUOvByfzuaFDsAXGiwG8glF8L9xhajYh7lLA7kIVDYGNNkYkagOXHJMuHHXP2QdGWZJXv0AJqXjK5zz-6GmCtiRm-YkyVbVF90dkiPkIWAmbdx1hBoWdEFQGOsYPQBymJiDP1E4yUZbcD3N5T79LF7xWuW8L6QUwco7J8eCb197PnCLkJuU_BG3g&anvtrid=8e492d3268aad82cc88c51a5a2f565a7&anvauth=tb=0~te=1781723431~sgn=5708646a36b20aeb9ce17ce473a26679bce177c93a633f3979bcf50939918174&t=1781723341#7a698b75a33351013c49549372f213b0bdcdb60bc90307bbee5501ab2ac9b932
+https://dcs-live-uw1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-0&anvsid=m177610498-nf6de8e841e2b0b1b2ae6d48101ba5464&ts=1781745185&anvtrid=badc59101458200dd8377c16b5f7e38d
 #EXTINF:-1 group-title="Deportes",DSPORTS
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS (opción2)
