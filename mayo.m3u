@@ -277,6 +277,10 @@ https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=-e
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS (opción2)
 http://181.78.0.107:8006/play/a08r/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSPORTS (opción3)
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="Deportes",DSPORTS +
+http://38.224.175.2:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS HD
 http://38.199.4.105:9999/play/1119/index.m3u8
 http://38.224.175.2:8000/play/a0l4/index.m3u8
@@ -321,7 +325,7 @@ http://38.224.175.2:8000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Deportes",TyC
 http://38.199.4.105:9999/play/a105/index.m3u8
 #EXTINF:-1 group-title="Deportes",00 T&C SPORTS
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8#20ec4a4ef1f189091a9be01a95fe3253c8c7947f866f9821e8eea1ba2f8cda30
 #EXTINF:-1 group-title="Deportes",14.2 - LIGA UNO HD
 http://181.224.255.210:8001/play/a0sf/index.m3u8
 #EXTINF:-1 group-title="Deportes",CO: WIN SPORTS
