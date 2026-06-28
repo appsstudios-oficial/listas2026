@@ -186,7 +186,7 @@ http://181.224.255.210:8001/play/a0qo/index.m3u8
 #EXTINF:-1 group-title="Variedades",History 2
 http://181.224.255.210:8001/play/a0qh/index.m3u8
 #EXTINF:-1 group-title="Variedades",History Channel HD
-http://181.224.255.210:8001/play/a0m1/index.m3u8
+http://38.199.4.105:9999/play/a0mi/index.m3u8
 #EXTINF:-1 group-title="Variedades",Home & Health HD
 http://181.224.255.210:8001/play/a0st/index.m3u8
 #EXTINF:-1 group-title="Variedades",ID HD
