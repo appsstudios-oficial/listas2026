@@ -338,4 +338,20 @@ http://181.224.255.210:8001/play/a0sf/index.m3u8
 http://cord-cutter.net:8080/mwd3pG/937806/320377
 #EXTINF:-1 group-title="Motor",00 - El Garage
 https://stream1.sersat.com/hls/garagetv.m3u8#b06f1fofac96a94ef4604f24c9f9b020702d219ac07a2532bd99a9b9b73b3c1f4
+#EXTINF:-1 group-title="Series",Te encontraré 1
+https://data-limit-c.solo-latino.com/90ac7d816ae871f18125e7e7c4590102/718ce102f4a64e4a96c4f97c1d76e8c1-microframe-sd.m3u8?hdnts=exp=1783717077_acl=/90ac7d816ae871f18125e7e7c4590102/*_hmac=2d030c6af427b3d8a08d44c6af10f74bd8d45a22a4e50c16f236a5f66ffbe2ec
+#EXTINF:-1 group-title="Series",Te encontraré 2
+https://data-limit-c.solo-latino.com/a045a68c6ae871f18125e7e7c4590102/f1c96a0f30d2425683700b3bd36fdd3d-microframe-sd.m3u8?hdnts=exp=1783725909_acl=/a045a68c6ae871f18125e7e7c4590102/*_hmac=22a5ce774a1052ce4f4c77abf46294c02b69c0686dc0cd8a3de9e7dfb11360ef
+#EXTINF:-1 group-title="Series",Te encontraré 3
+https://data-limit-c.solo-latino.com/10d29b956ae871f1a3aaf6f7f45a0102/d4448ff6b564486b8ba8ee83d43dbc84-microframe-sd.m3u8?hdnts=exp=1783710403_acl=/10d29b956ae871f1a3aaf6f7f45a0102/*_hmac=8550fb2ccb0cd007ceca4f6d5fef0f84fe7c81dcc5ef9b042183287fc021d2aa
+#EXTINF:-1 group-title="Series",Te encontraré 4
+https://data-limit-c.solo-latino.com/201bae986ae871f1853ae6e7c74a0102/1e2ad8e9f28843b58429333d747cfa54-microframe-sd.m3u8?hdnts=exp=1783733676_acl=/201bae986ae871f1853ae6e7c74a0102/*_hmac=b4158e10dd281b068ad51826e830d13dc947ca09d5eedf0b55795f2840e0000a
+#EXTINF:-1 group-title="Series",Te encontraré 5
+https://data-limit-c.solo-latino.com/40e458d76ae871f1a514f6f7d6580102/1800cccaf6594bd4956d6d72f0805147-microframe-sd.m3u8?hdnts=exp=1783687821_acl=/40e458d76ae871f1a514f6f7d6580102/*_hmac=7ad6135c5e4a5faf0220d07c81392d03143144e59e9524c84c5e7aed12880a62
+#EXTINF:-1 group-title="Series",Te encontraré 6
+https://data-limit-c.solo-latino.com/802dcc166ae971f1a5bff6f7c4590102/d47515fc37ba4bf28cb5e886a222aeb5-microframe-sd.m3u8?hdnts=exp=1783733727_acl=/802dcc166ae971f1a5bff6f7c4590102/*_hmac=5f00d7c218f19e943033af70a49de98563fd1804b84c0bb16dfd1f9026cb68c7
+#EXTINF:-1 group-title="Series",Te encontraré 7
+https://data-limit-c.solo-latino.com/507d27f16ae871f1a5bff6f7c4590102/67067442458c4caa8dad99a7d85b4855-microframe-sd.m3u8?hdnts=exp=1783708795_acl=/507d27f16ae871f1a5bff6f7c4590102/*_hmac=486d990eee8603d1b66e9caeead4ed8b8d6f41ad9a798d8e9bbb54312b195123
+#EXTINF:-1 group-title="Series",Te encontraré 8
+https://data-limit-c.solo-latino.com/100223106ae971f1a514f6f7d6580102/939e1f0ea52b4291a38679f6fd90910b-microframe-sd.m3u8?hdnts=exp=1783718321_acl=/100223106ae971f1a514f6f7d6580102/*_hmac=62ef0409e1f5fbe223b284a2cad3345919a308a10f3be48682f3e803bda7444a
 
