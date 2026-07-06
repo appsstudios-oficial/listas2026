@@ -289,7 +289,7 @@ http://181.78.0.107:8006/play/a07r/index.m3u8
 http://38.199.4.105:9999/play/1119/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS HD
 http://38.199.4.105:9999/play/1119/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS 3
+#EXTINF:-1 group-title="Deportes",DSPORTS3
 https://jwzrh.vivolatamz.org/lb03/dsports/index.m3u8?token=8bef68f8424238653faf015952fe168c83172a24-6e-1783348543-1783294543&ip=186.60.0.148
 #EXTINF:-1 group-title="Deportes",Mex vs ing
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
