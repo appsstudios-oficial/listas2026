@@ -289,6 +289,8 @@ http://181.78.0.107:8006/play/a07r/index.m3u8
 http://38.199.4.105:9999/play/1119/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS HD
 http://38.199.4.105:9999/play/1119/index.m3u8
+#EXTINF:-1 group-title="Deportes",Mex vs ing
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Deportes",WIN +
 http://181.78.0.107:8006/play/a06r/index.m3u8
 http://38.224.175.2:8000/play/a0l4/index.m3u8
