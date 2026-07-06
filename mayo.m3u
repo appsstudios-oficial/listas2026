@@ -274,7 +274,7 @@ http://181.224.255.210:8001/play/a0od/index.m3u8
 #EXTINF:-1 group-title="Variedades",Willax
 http://181.224.255.210:8001/play/a0sp/index.m3u8
 #EXTINF:-1 group-title="Deportes",TUDN Mx
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc_video_6_0_init.mp4?m=1745870435
+https://dcs-live-uw1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-4&anvsid=m177610496-n5dcb2d3f13f22c740aa6f84f9d9b74a9&ts=1783302919&anvtrid=b7f512c0837d18c599617034ef2fcec4
 #EXTINF:-1 group-title="Deportes",DSPORTS
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS (opción2)
