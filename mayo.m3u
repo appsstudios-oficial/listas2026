@@ -291,6 +291,8 @@ http://38.199.4.105:9999/play/1119/index.m3u8
 http://38.199.4.105:9999/play/1119/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS3
 https://jwzrh.vivolatamz.org/lb03/dsports/index.m3u8?token=8bef68f8424238653faf015952fe168c83172a24-6e-1783348543-1783294543&ip=186.60.0.148
+#EXTINF:-1 group-title="Deportes",Evento Deportivo Privado_no funciona en otros reproductores_ Futbol Fullhd esclusivo de servidor Cristian
+https://djtzg.crislatamz.org/lb/index.m3u8?token=7f3c2acbfbd4a97d01e1787ca665543021149-3b-3689054783635054&ip=156.6.61.0
 #EXTINF:-1 group-title="Deportes",WIN +
 http://181.78.0.107:8006/play/a06r/index.m3u8
 http://38.224.175.2:8000/play/a0l4/index.m3u8
@@ -342,24 +344,139 @@ http://181.224.255.210:8001/play/a0sf/index.m3u8
 http://cord-cutter.net:8080/mwd3pG/937806/320377
 #EXTINF:-1 group-title="Motor",00 - El Garage
 https://stream1.sersat.com/hls/garagetv.m3u8#b06f1fofac96a94ef4604f24c9f9b020702d219ac07a2532bd99a9b9b73b3c1f4
-#EXTINF:-1 group-title="Series",Te encontraré 1
-https://data-limit-c.solo-latino.com/90ac7d816ae871f18125e7e7c4590102/718ce102f4a64e4a96c4f97c1d76e8c1-microframe-sd.m3u8?hdnts=exp=1783717077_acl=/90ac7d816ae871f18125e7e7c4590102/*_hmac=2d030c6af427b3d8a08d44c6af10f74bd8d45a22a4e50c16f236a5f66ffbe2ec
-#EXTINF:-1 group-title="Series",Te encontraré 2
-https://data-limit-c.solo-latino.com/a045a68c6ae871f18125e7e7c4590102/f1c96a0f30d2425683700b3bd36fdd3d-microframe-sd.m3u8?hdnts=exp=1783725909_acl=/a045a68c6ae871f18125e7e7c4590102/*_hmac=22a5ce774a1052ce4f4c77abf46294c02b69c0686dc0cd8a3de9e7dfb11360ef
-#EXTINF:-1 group-title="Series",Te encontraré 3
-https://data-limit-c.solo-latino.com/10d29b956ae871f1a3aaf6f7f45a0102/d4448ff6b564486b8ba8ee83d43dbc84-microframe-sd.m3u8?hdnts=exp=1783710403_acl=/10d29b956ae871f1a3aaf6f7f45a0102/*_hmac=8550fb2ccb0cd007ceca4f6d5fef0f84fe7c81dcc5ef9b042183287fc021d2aa
-#EXTINF:-1 group-title="Series",Te encontraré 4
-https://data-limit-c.solo-latino.com/201bae986ae871f1853ae6e7c74a0102/1e2ad8e9f28843b58429333d747cfa54-microframe-sd.m3u8?hdnts=exp=1783733676_acl=/201bae986ae871f1853ae6e7c74a0102/*_hmac=b4158e10dd281b068ad51826e830d13dc947ca09d5eedf0b55795f2840e0000a
-#EXTINF:-1 group-title="Series",Te encontraré 5
-https://data-limit-c.solo-latino.com/40e458d76ae871f1a514f6f7d6580102/1800cccaf6594bd4956d6d72f0805147-microframe-sd.m3u8?hdnts=exp=1783687821_acl=/40e458d76ae871f1a514f6f7d6580102/*_hmac=7ad6135c5e4a5faf0220d07c81392d03143144e59e9524c84c5e7aed12880a62
-#EXTINF:-1 group-title="Series",Te encontraré 6
-https://data-limit-c.solo-latino.com/802dcc166ae971f1a5bff6f7c4590102/d47515fc37ba4bf28cb5e886a222aeb5-microframe-sd.m3u8?hdnts=exp=1783733727_acl=/802dcc166ae971f1a5bff6f7c4590102/*_hmac=5f00d7c218f19e943033af70a49de98563fd1804b84c0bb16dfd1f9026cb68c7
-#EXTINF:-1 group-title="Series",Te encontraré 7
-https://data-limit-c.solo-latino.com/507d27f16ae871f1a5bff6f7c4590102/67067442458c4caa8dad99a7d85b4855-microframe-sd.m3u8?hdnts=exp=1783708795_acl=/507d27f16ae871f1a5bff6f7c4590102/*_hmac=486d990eee8603d1b66e9caeead4ed8b8d6f41ad9a798d8e9bbb54312b195123
-#EXTINF:-1 group-title="Series",Te encontraré 8
-https://data-limit-c.solo-latino.com/100223106ae971f1a514f6f7d6580102/939e1f0ea52b4291a38679f6fd90910b-microframe-sd.m3u8?hdnts=exp=1783718321_acl=/100223106ae971f1a514f6f7d6580102/*_hmac=62ef0409e1f5fbe223b284a2cad3345919a308a10f3be48682f3e803bda7444a
-#EXTINF:-1 group-title="Movies",Toy History 5 2026 calidad cine
-https://vod-limit-02.playspelis.com/b03009916b8f71f180ace6f6c44a0102/9fe7c051bd2946259361f3a2fd51ec65-microframe-sd.m3u8?hdnts=exp=1783732744_acl=/b03009916b8f71f180ace6f6c44a0102/*_hmac=5e98bcff958e0993fde0e280cae993c8b81e7a118b429b3450cdfa5d3a404867
-#EXTINF:-1 group-title="Movies",El diablo viste de Prada 2 2026
-https://data-limit-c.solo-latino.com/c02a2a3d742d71f1818fe6f6c55a0102/e8ad90998465472aad8a435951a20fd1-microframe-sd.m3u8?hdnts=exp=1783711778_acl=/c02a2a3d742d71f1818fe6f6c55a0102/*_hmac=51e397c2969fadf0947c95f6415fe58e9ad8f51f4c3fbda1fbe82f18215600e9
 
+# ==================== SERIE: TE ENCONTRARÉ ====================
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 1
+https://data-limit-c.solo-latino.com/90ac7d816ae871f18125e7e7c4590102/718ce102f4a64e4a96c4f97c1d76e8c1-microframe-sd.m3u8?hdnts=exp=1783717077_acl=/90ac7d816ae871f18125e7e7c4590102/*_hmac=2d030c6af427b3d8a08d44c6af10f74bd8d45a22a4e50c16f236a5f66ffbe2ec
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 2
+https://data-limit-c.solo-latino.com/a045a68c6ae871f18125e7e7c4590102/f1c96a0f30d2425683700b3bd36fdd3d-microframe-sd.m3u8?hdnts=exp=1783725909_acl=/a045a68c6ae871f18125e7e7c4590102/*_hmac=22a5ce774a1052ce4f4c77abf46294c02b69c0686dc0cd8a3de9e7dfb11360ef
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 3
+https://data-limit-c.solo-latino.com/10d29b956ae871f1a3aaf6f7f45a0102/d4448ff6b564486b8ba8ee83d43dbc84-microframe-sd.m3u8?hdnts=exp=1783710403_acl=/10d29b956ae871f1a3aaf6f7f45a0102/*_hmac=8550fb2ccb0cd007ceca4f6d5fef0f84fe7c81dcc5ef9b042183287fc021d2aa
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 4
+https://data-limit-c.solo-latino.com/201bae986ae871f1853ae6e7c74a0102/1e2ad8e9f28843b58429333d747cfa54-microframe-sd.m3u8?hdnts=exp=1783733676_acl=/201bae986ae871f1853ae6e7c74a0102/*_hmac=b4158e10dd281b068ad51826e830d13dc947ca09d5eedf0b55795f2840e0000a
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 5
+https://data-limit-c.solo-latino.com/40e458d76ae871f1a514f6f7d6580102/1800cccaf6594bd4956d6d72f0805147-microframe-sd.m3u8?hdnts=exp=1783687821_acl=/40e458d76ae871f1a514f6f7d6580102/*_hmac=7ad6135c5e4a5faf0220d07c81392d03143144e59e9524c84c5e7aed12880a62
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 6
+https://data-limit-c.solo-latino.com/802dcc166ae971f1a5bff6f7c4590102/d47515fc37ba4bf28cb5e886a222aeb5-microframe-sd.m3u8?hdnts=exp=1783733727_acl=/802dcc166ae971f1a5bff6f7c4590102/*_hmac=5f00d7c218f19e943033af70a49de98563fd1804b84c0bb16dfd1f9026cb68c7
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 7
+https://data-limit-c.solo-latino.com/507d27f16ae871f1a5bff6f7c4590102/67067442458c4caa8dad99a7d85b4855-microframe-sd.m3u8?hdnts=exp=1783708795_acl=/507d27f16ae871f1a5bff6f7c4590102/*_hmac=486d990eee8603d1b66e9caeead4ed8b8d6f41ad9a798d8e9bbb54312b195123
+#EXTINF:-1 group-title="Te encontraré",Te encontraré 8
+https://data-limit-c.solo-latino.com/100223106ae971f1a514f6f7d6580102/939e1f0ea52b4291a38679f6fd90910b-microframe-sd.m3u8?hdnts=exp=1783718321_acl=/100223106ae971f1a514f6f7d6580102/*_hmac=62ef0409e1f5fbe223b284a2cad3345919a308a10f3be48682f3e803bda7444a
+
+# ==================== SERIE: THE BOYS ====================
+#EXTINF:-1 group-title="The Boys",The Boys 1
+https://data-limit-c.solo-latino.com/70e948d58c9071f0800287c6371c0102/5edde0d151e6fec1756261a9406c4a30-sd.m3u8?hdnts=exp=1784249336_acl=/70e948d58c9071f0800287c6371c0102/*_hmac=c366efe3b3a0d849c21bf072201178db009422c9d7ceda12e11bf055671cbf11
+#EXTINF:-1 group-title="The Boys",The Boys 2
+https://data-limit-c.solo-latino.com/80efb6ce8c9071f0800997c6360c0102/c12fd0f526a392c057bd4c849005baff-sd.m3u8?hdnts=exp=1784249433_acl=/80efb6ce8c9071f0800997c6360c0102/*_hmac=db5e642451143811a6437c1ba480e850571f79d3a0a2c19b5b8b743c71d0e481
+#EXTINF:-1 group-title="The Boys",The Boys 3
+https://data-limit-c.solo-latino.com/403273298c9071f080072680f9ea0102/b8be15731c879f6dd90d65c8396e5ae4-sd.m3u8?hdnts=exp=1784222812_acl=/403273298c9071f080072680f9ea0102/*_hmac=8621f33da13d55e16ab9732f56165e498c312c377a3c318c24b03a396fa0e8f4
+#EXTINF:-1 group-title="The Boys",The Boys 4
+https://data-limit-c.solo-latino.com/50ca75298c9071f0800997c6360c0102/35624b48210dbfc55a123ec548f808a7-sd.m3u8?hdnts=exp=1784249528_acl=/50ca75298c9071f0800997c6360c0102/*_hmac=b574283f74ef20fd350f6951dff85c04066ba4d9151f2b524787296033dcbc67
+#EXTINF:-1 group-title="The Boys",The Boys 5
+https://data-limit-c.solo-latino.com/403bb0298c9071f0800636a5e8aa0102/a98973e8599369a53e801d95bb76f54a-sd.m3u8?hdnts=exp=1784249559_acl=/403bb0298c9071f0800636a5e8aa0102/*_hmac=078838f21f1a4be72351606acb429175f236b38cefbb26f80a5adc78098a878f
+#EXTINF:-1 group-title="The Boys",The Boys 6
+https://data-limit-c.solo-latino.com/50ef5a298c9071f0800636a5e8aa0102/303b35ffc0c180616f6bd697e996d82f-sd.m3u8?hdnts=exp=1784227929_acl=/50ef5a298c9071f0800636a5e8aa0102/*_hmac=8c772cf89f5b65371aa797d7a5b3e26b4e014fa3350a5bf3f031a54dc237deab
+#EXTINF:-1 group-title="The Boys",The Boys 7
+https://data-limit-c.solo-latino.com/20026e298c9071f099515014c1ca0102/907bb2f6920c2ccdb7e21892df83e822-sd.m3u8?hdnts=exp=1784249601_acl=/20026e298c9071f099515014c1ca0102/*_hmac=365ef755f8450546bd3ca62f803fdfae3c4f58238f4adc21a14d813e8c1e7a47
+#EXTINF:-1 group-title="The Boys",The Boys 8
+https://data-limit-c.solo-latino.com/d09174298c9071f0999187c7371d0102/ac7cce271e32ed45a326e8abcad499b2-sd.m3u8?hdnts=exp=1784241468_acl=/d09174298c9071f0999187c7371d0102/*_hmac=ec6edb859307ca3f7f10399ea642546fc1d438b06adcceaf17dad67e35bd8b6e
+
+# ==================== CATEGORÍA: ANIMACIÓN / FAMILIAR ====================
+#EXTINF:-1 group-title="Animación",Toy Story 5 calidad cine
+https://vod-limit-02.playspelis.com/b03009916b8f71f180ace6f6c44a0102/9fe7c051bd2946259361f3a2fd51ec65-microframe-sd.m3u8?hdnts=exp=1783732744_acl=/b03009916b8f71f180ace6f6c44a0102/*_hmac=5e98bcff958e0993fde0e280cae993c8b81e7a118b429b3450cdfa5d3a404867
+#EXTINF:-1 group-title="Animación",Las ovejas detectives
+https://delivery-limit-c.123pelicula.com/a0d01bac6faf71f1814fe6f6c55a0102/30fdb3b483794b5f9036890b443324a7-microframe-sd.m3u8?hdnts=exp=1784225804_acl=/a0d01bac6faf71f1814fe6f6c55a0102/*_hmac=f6d85fe6456c4e059606e1955836200a166007fe7257e31460424b4987740ada
+#EXTINF:-1 group-title="Animación",Zootrópolis 2
+https://c4-limit.cuevana4br.com/0082cc9ce94c71f0b7c54177d1c00102/8573f86817634077af98ff9621322ac5-microframe-sd.m3u8?hdnts=exp=1784225862_acl=/0082cc9ce94c71f0b7c54177d1c00102/*_hmac=d001f92dddff93d4e9faaa23ca78240dfb7f1029d1193e06285fc5f342d4b7ff
+#EXTINF:-1 group-title="Animación",Super Mario Galaxy la película
+https://vod-limit-media.123flmsfree.com/303170255b1071f1bfe0f6e7c5680102/2a100334ed0d4cf29e525660ffa66ac7-microframe-sd.m3u8?hdnts=exp=1784248535_acl=/303170255b1071f1bfe0f6e7c5680102/*_hmac=e28d71430a69d23bd4738d77a9ac16808a151738b7956e34e5bd69fa642e749d
+
+# ==================== CATEGORÍA: DRAMA Y COMEDIA ====================
+#EXTINF:-1 group-title="Drama y Comedia",El diablo viste de Prada 2
+https://data-limit-c.solo-latino.com/c02a2a3d742d71f1818fe6f6c55a0102/e8ad90998465472aad8a435951a20fd1-microframe-sd.m3u8?hdnts=exp=1783711778_acl=/c02a2a3d742d71f1818fe6f6c55a0102/*_hmac=51e397c2969fadf0947c95f6415fe58e9ad8f51f4c3fbda1fbe82f18215600e9
+#EXTINF:-1 group-title="Drama y Comedia",Culpa nuestra
+https://cf-cdn-play.pokiki.com/a0ccc025aa6071f0bd534177d0d10102/bcbbfea3e3578e70a2c2e8d36d6c62f7-sd.m3u8?auth_key=1783619967-ab9bd40ab7374d358cc025dbbcadbc8e-0-2f8715663900491ec374633b201a2f1e&exp=1783706367
+#EXTINF:-1 group-title="Drama y Comedia",La novia del año
+https://vod-limit-media.123flmsfree.com/c0a098ee50ec71f19a7ef7f7c5580102/825a61dc889a43bbb785bdab00893c0b-microframe-sd.m3u8?hdnts=exp=1784247048_acl=/c0a098ee50ec71f19a7ef7f7c5580102/*_hmac=f10a36bd20af5f56a2430f95acb34acfa06a08d6f26c32a3c1359a24989d972e
+#EXTINF:-1 group-title="Drama y Comedia",El lobo de Wall Street
+https://delivery-limit-c.123pelicula.com/60ffbe1ed48471efaf175114c1ca0102/b00fb184b03145dba8cc9bfa87ca8d2e-04f2ec190f884e8e083d0aab40674bc9-sd.m3u8?hdnts=exp=1784247570_acl=/60ffbe1ed48471efaf175114c1ca0102/*_hmac=20e0a08cde897851fe74859595d65622cf6e64cf7fefb8ee7c244fc29581ff9b
+#EXTINF:-1 group-title="Drama y Comedia",Comer, rezar, ladrar
+https://s1.vimeos.net/hls2/03/00010/0klmwrv92bj1_,n,h,.urlset/master.m3u8?t=OEUoVRz1rpwNGkjlrXCfJgneevkWmN32JPbavG1rlQU&s=1783642581&e=43200&v=286341225&i=0.0&sp=0&fr=0klmwrv92bj1&r=e
+
+# ==================== CATEGORÍA: CIENCIA FICCIÓN ====================
+#EXTINF:-1 group-title="Ciencia Ficción",La Guerra Del Mañana
+https://vod-limit-media.123flmsfree.com/1076190866dc71f088534177d0d10102/fa39d556e53244cebfafac0a266c7328-3321c1ea801153d5d7582c669b8f8091-sd.m3u8?hdnts=exp=1784246884_acl=/1076190866dc71f088534177d0d10102/*_hmac=ac4c7422a406b6d49793de0d134eaad2858a013237bb49ecd3f7543b897d2cea
+#EXTINF:-1 group-title="Ciencia Ficción",La guerra del futuro
+https://media-limit-xr8a2.peliculaplay.com/10597ca39abc71f08d142680f9ea0102/d2d4a1b6d40a2ee4d58144fc90adf017-sd.m3u8?hdnts=exp=1784246882_acl=/10597ca39abc71f08d142680f9ea0102/*_hmac=3b9fc65397314a2f529f238136fd24ab9a1ae18b0d5c3d8a261ca398ce9ff16c
+#EXTINF:-1 group-title="Ciencia Ficción",Amos del Universo
+https://vod-limit-media.123flmsfree.com/50fe205a62f471f1aeb4e7f7c46b0102/1737d13bb5ae422a9f903baeedcd2234-microframe-sd.m3u8?hdnts=exp=1784241259_acl=/50fe205a62f471f1aeb4e7f7c46b0102/*_hmac=b49d6919edde1a12abdc9b2ddec4fb76d71665e69c21cb2763fa1e2b327afe15
+#EXTINF:-1 group-title="Ciencia Ficción",El Día del Fin del Mundo
+https://r-limit.flixlat.com/b011cfe22ef271f0bfaf4177d0d10102/5821ec71f382447b9e4792bc3fad27cf-0d109071ac3f10bc9dcb449c9a8d1b19-sd.m3u8?hdnts=exp=1784239654_acl=/b011cfe22ef271f0bfaf4177d0d10102/*_hmac=6181d4afe1a29041f80b213c116d69e6e558c5ec666d8c7d36e5cdf259a06638
+#EXTINF:-1 group-title="Ciencia Ficción",El día del fin del mundo: Migración
+https://r-limit.flixlat.com/00b64572058071f18d4036a5e8aa0102/986ddb5ce3e3454c94242f93cac0a7b1-microframe-sd.m3u8?hdnts=exp=1784247213_acl=/00b64572058071f18d4036a5e8aa0102/*_hmac=e26208ac5e20f1434590d8e5cf8dcb5190e63bd6f724610d5c81e5d5bd9b8a9f
+#EXTINF:-1 group-title="Ciencia Ficción",Avatar: Fuego y ceniza
+https://vod-limit-media.123flmsfree.com/d03a981f2ce171f190884077c0c30102/9b3b2866a23f4078ad68b7c1f49dfa63-microframe-sd.m3u8?hdnts=exp=1784244775_acl=/d03a981f2ce171f190884077c0c30102/*_hmac=1c5af6aea92a9d967268f84731a188484746ff3d860acaa18571979bb0e4dd69
+#EXTINF:-1 group-title="Ciencia Ficción",Jurassic World: El renacer
+https://vod-limit-stream.dramasfree.com/e01205cd78de71f0bfc487c7361c0102/7039d964b0202d82da2cfa489f96e37f-sd.m3u8?hdnts=exp=1784209231_acl=/e01205cd78de71f0bfc487c7361c0102/*_hmac=06afdac10cbeedac8872e2bdaeac483b25db85bbf37b6656ee5275e35fdbf95d
+#EXTINF:-1 group-title="Ciencia Ficción",Proyecto Salvación
+https://vod-limit-02.playspelis.com/f06f306f59a471f1bfb7e7f66c4490102/28ce8b2b1fc346b0a4e0cea9a5f5138c-microframe-sd.m3u8?hdnts=exp=1784248441_acl=/f06f306f59a471f1bfb7e7f6c4490102/*_hmac=967c54d53dbe9d4e2f81ac96ee17a47af935d7ccb625176047714d5217defafc
+
+# ==================== CATEGORÍA: TERROR / SUSPENSO ====================
+#EXTINF:-1 group-title="Terror y Suspenso",Destino final lazos de sangre
+https://stream-limit-vid.321moviesfree.com/409cc9b4555871f0a08536a5e8aa0102/99535d8198e0efc6a2b5aacabeb644d7-sd.m3u8?hdnts=exp=1784246584_acl=/409cc9b4555871f0a08536a5e8aa0102/*_hmac=3018e57c79b06419daa3b6d73dd224e15a7388725e7da00753e5b80c886eca96
+#EXTINF:-1 group-title="Terror y Suspenso",El abismo secreto
+https://s14.vimeos.net/hls2/03/00000/ne4kvx1q57pn_,n,h,.urlset/master.m3u8?t=GPtuAilpvGnE1p1Fum_Qg6Yse2nkQi7tyYRL1sltKeg&s=1783642171&e=43200&v=286333027&i=0.3&sp=0&r=e
+#EXTINF:-1 group-title="Terror y Suspenso",Obsesión
+https://vod-limit-media.123flmsfree.com/105f2308744471f18585e6e7c74a0102/ad391f8f68e04b30856ba3e2f126b8fa-microframe-ld.m3u8?hdnts=exp=1784247017_acl=/105f2308744471f18585e6e7c74a0102/*_hmac=912675f68c746e71ac8fdbe48a1eb49768474ff3e55f38182443eb35aee5bc01
+#EXTINF:-1 group-title="Terror y Suspenso",La boda maldita
+https://vod-limit-02.playspelis.com/a01838a1693471f19613f6e6c5490102/e52c94f664aa4b659c331340b3fb9e03-microframe-sd.m3u8?hdnts=exp=1784247502_acl=/a01838a1693471f19613f6e6c5490102/*_hmac=2b82afd8c707ce6428a8b607187adcb78a23d2a60b5adb83fc9523062b0dd463
+#EXTINF:-1 group-title="Terror y Suspenso",El día de la revelación
+https://vod-limit-res.cuevana.life/c01e3851706b71f1a55cf6f7d6580102/838ea227eed24a84aff82dfdeb37ff14-microframe-sd.m3u8?hdnts=exp=1784247611_acl=/c01e3851706b71f1a55cf6f7d6580102/*_hmac=b11236b440c4df23610ea1b9fab319f26a0abb5a0c31f0a364ed4e72b186af18
+#EXTINF:-1 group-title="Terror y Suspenso",La bruja
+https://vod-limit-stream.dramasfree.com/d0dab3ae500071f0864b2680f9ea0102/14836788aaf1402e97ffadcc592a0eea-9daf8709f3beffcc86e3d61b09926c45-sd.m3u8?hdnts=exp=1784248580_acl=/d0dab3ae500071f0864b2680f9ea0102/*_hmac=ae3d5a4aee563eb2e5f71d7408278c6c7e32eac917e8d1c861e747dc4e87d1f9
+#EXTINF:-1 group-title="Terror y Suspenso",Nadie va a escuchar tu grito
+https://data-limit-c.solo-latino.com/800b681e51bd71f1b271f6e6d44a0102/7d9408bfae8b4f3ab5e47aa0ef454a1c-microframe-sd.m3u8?hdnts=exp=1784248650_acl=/800b681e51bd71f1b271f6e6d44a0102/*_hmac=8268f4ff68fe6563025ec4d36f4ec8613ff12b761e4469d4502242a218d390a5
+#EXTINF:-1 group-title="Terror y Suspenso",M3GAN
+https://data-limit-c.solo-latino.com/104eb3cf28bd71f0801436a5e8aa0102/ab7586c1d4c5d41a71a9cd3090fb8b75-sd.m3u8?hdnts=exp=1784248720_acl=/104eb3cf28bd71f0801436a5e8aa0102/*_hmac=1fba47ee4f7b38ebd6370401a80ed659953a7e1f099c1c66dda4c5de332b9e1d
+#EXTINF:-1 group-title="Terror y Suspenso",M3GAN 2.0
+https://data-limit-c.solo-latino.com/50fad5c98d2771f08f9d5114c1ca0102/b778c3cb51962457d642faadb13871cf-sd.m3u8?hdnts=exp=1784221290_acl=/50fad5c98d2771f08f9d5114c1ca0102/*_hmac=12d8d706bfe260142cfc9e515a5d39018d856a666d90e9fd09897a3422f4b83a
+#EXTINF:-1 group-title="Terror y Suspenso",Backrooms
+https://vod-limit-res.cuevana.life/304c1ed85bf771f1bf99e6f6c55a0102/c5e553686a25421d9dfac43e6e51ef9c-microframe-sd.m3u8?hdnts=exp=1784243942_acl=/304c1ed85bf771f1bf99e6f6c55a0102/*_hmac=e5bb7ed6900119818d1e5d3861a401b2b77b952eab6cdc76b3cff6f11b7e6e41
+
+# ==================== CATEGORÍA: SAGA SCARY MOVIE ====================
+#EXTINF:-1 group-title="Scary Movie Colección",Scary Movie
+https://media-limit-xr8a2.peliculaplay.com/e02d1614f82d71f080072680f9ea0102/11bf1fa46e2a462bae9719c1ee5af668-microframe-sd.m3u8?hdnts=exp=1784247810_acl=/e02d1614f82d71f080072680f9ea0102/*_hmac=c435c551ad5d8db875cb53d7015f2064211e4b990e3fe41f728e34f08b36c9ce
+#EXTINF:-1 group-title="Scary Movie Colección",Scary Movie 2
+https://media-limit-xr8a2.peliculaplay.com/70f438a22fd071f0885f2680f9ea0102/8ca1ee7db60f4e609b2aca6698834d71-a01e56ab6cfe96c9417b17aaf9d61797-sd.m3u8?hdnts=exp=1784247840_acl=/70f438a22fd071f0885f2680f9ea0102/*_hmac=ce0cca1ba2ca87d7a322d4ed2120d625fa2e333076f47cc2f0b829c510e6efc8
+#EXTINF:-1 group-title="Scary Movie Colección",Scary Movie 3
+https://media-limit-xr8a2.peliculaplay.com/40eb0020f50871f0800f97c6360c0102/2107a16920694d1e89259b733418d0b7-microframe-sd.m3u8?hdnts=exp=1784247868_acl=/40eb0020f50871f0800f97c6360c0102/*_hmac=464bef6c401cc2e8bb051db8b4cd6d0b6998850a9068864cedeff1f9b2f711fd
+#EXTINF:-1 group-title="Scary Movie Colección",Scary Movie 4
+https://media-limit-xr8a2.peliculaplay.com/00b64ae32fd171f0bfdd87c6371c0102/ba63e4137de945ef84286230784492ac-c010099bbd28173b4002c96cf5be02ab-sd.m3u8?hdnts=exp=1784247896_acl=/00b64ae32fd171f0bfdd87c6371c0102/*_hmac=aacd8cec3eab0fdc1811be5353f5ac36e546cab1875b8d76f50c7a1de77a7fe6
+#EXTINF:-1 group-title="Scary Movie Colección",Scary Movie 5
+https://media-limit-xr8a2.peliculaplay.com/407deaa92fd271f0bfe897c6360c0102/3a4cac5cf3ff4f4c8e756564c13bc889-1bfa1fe862931453000bc97fbe098f58-sd.m3u8?hdnts=exp=1784247925_acl=/407deaa92fd271f0bfe897c6360c0102/*_hmac=40495fec14caa0a49207fd0363ea5d15fe101903a4bdfaa0a5160db419fbaa06
+#EXTINF:-1 group-title="Scary Movie Colección",Scary Movie 2026
+https://media-limit-xr8a2.peliculaplay.com/e0d2c11d608371f18f72e6f7d4580102/53083b9b88fb4c62bcf27ce260d0798d-microframe-sd.m3u8?hdnts=exp=1784233231_acl=/e0d2c11d608371f18f72e6f7d4580102/*_hmac=fdae29765d293cae10ef89eb0d1f547efc6d7490f9e3c65f8ae8b6bfede9433b
+
+# ==================== CATEGORÍA: ACCIÓN / TRILER ====================
+#EXTINF:-1 group-title="Acción",En la Ruta del Crimen
+https://c4-limit.cuevana4br.com/00e79496dfc71f18543e6e7c74a0102/b0500c0f94da4a8d908965c9dbae8ccb-microframe-sd.m3u8?hdnts=exp=1784246845_acl=/f0ee79496dfc71f18543e6e7c74a0102/*_hmac=3bd2d542d2b5aacb0a71e560772d464974848214fe995d00d5642f719159535f
+#EXTINF:-1 group-title="Acción",Supergirl
+https://delivery-limit-c.123pelicula.com/805f05b870fe71f180dcf7e7c65a0102/fec448383ab94e1ca4e4d980e16e5063-microframe-sd.m3u8?hdnts=exp=1784247260_acl=/805f05b870fe71f180dcf7e7c65a0102/*_hmac=f909f35e4480163f03a80b3f57f55bd8df00364d202c61c4be648bd04a8082a4
+#EXTINF:-1 group-title="Acción",The Punisher: La última muerte
+https://media-limit-xr8a2.peliculaplay.com/006a9d2f4e7d71f1bfb7e7f6371c0102/b3bcf164ac3c4bac8590502b49443d15-microframe-sd.m3u8?hdnts=exp=1784247317_acl=/006a9d2f4e7d71f1bfb7e7f6371c0102/*_hmac=fbf4bf72d26203daf02645aee9735bbafff2daaa8f9979c7438f8642de27bf84
+#EXTINF:-1 group-title="Acción",El último gigante
+https://vod-limit-02.playspelis.com/90d65d1f2db571f1bfe82680f9ea0102/2104d6c1ac6e40c4851fc69b443d6fa2-microframe-sd.m3u8?hdnts=exp=1784247409_acl=/90d65d1f2db571f1bfe82680f9ea0102/*_hmac=abbbb975b3eee7667e47514e4586de8e2906ed0bd812e02d33292b69958ed3d7
+#EXTINF:-1 group-title="Acción",Juerga hasta el fin
+https://delivery-limit-c.123pelicula.com/901d54ec088a71f0bffc5014c1ca0102/79682d150421497b8c21926e65ac2559-e899cdee978a3fe489610f38f0049fdc-sd.m3u8?hdnts=exp=1784247724_acl=/901d54ec088a71f0bffc5014c1ca0102/*_hmac=66264fb9b92fb74e771937e4fa07bd3ad7e49480f8fb031c068fa320c7d5acb2
+#EXTINF:-1 group-title="Acción",Hoppers
+https://vod-limit-stream.dramasfree.com/a0b698a95b1371f1bfcce7f7d46a0102/b5662d3f23e74e4181cb59946c519500-microframe-sd.m3u8?hdnts=exp=1784231047_acl=/a0b698a95b1371f1bfcce7f7d46a0102/*_hmac=9e3ff676b097b05ed9c1675ff43e92964d118f5d9047c3f11f1daed36e1c48a8
+#EXTINF:-1 group-title="Acción",Colony
+https://delivery-limit-c.123pelicula.com/40a25514557f71f19150e7f7c57b0102/b9e2289c30c54f21bfef4403875a77e3-microframe-sd.m3u8?hdnts=exp=1784248048_acl=/40a25514557f71f19150e7f7c57b0102/*_hmac=bc53cb0459347fb114d5812530f14ffc003cb57a626dc590f97c76efc47bba0e
+#EXTINF:-1 group-title="Acción",Peaky Blinders: El hombre inmortal
+https://vod-limit-02.playspelis.com/d055e0e0242e71f18fd287c7361c0102/c02aeaf24a014f1fa138b9df5d4113d7-microframe-sd.m3u8?hdnts=exp=1784248112_acl=/d055e0e0242e71f18fd287c7361c0102/*_hmac=54b4fda82b6e021f9a666041938a583b9945d7280adc0db5982bbe161beae261
+#EXTINF:-1 group-title="Acción",Depredador dominante
+https://delivery-limit-c.123pelicula.com/30a42cca3fc071f1b837e6e6c5490102/cf8a1a41ad0640a3b87647fc8e42e8ff-microframe-sd.m3u8?hdnts=exp=1784248317_acl=/30a42cca3fc071f1b837e6e6c5490102/*_hmac=a5325ea17ce996c9d26e19406e6de5e410882ce4b6fc28feaa2a017a2263dc3c
+#EXTINF:-1 group-title="Acción",Mortal Kombat II
+https://stream-limit-vid.321moviesfree.com/a0549441647471f1a25bf6f7f45a0102/da448b0d97094d64a6e30a9389b0a4b5-microframe-ld.m3u8?hdnts=exp=1784248354_acl=/a0549441647471f1a25bf6f7f45a0102/*_hmac=e2ece90626af8bea369738f0e31d4f40b3ebf004a7208a06c540c995902de595
+#EXTINF:-1 group-title="Acción",Hive
+https://vod-limit-stream.dramasfree.com/30479ad43c8a71f186b05114c0db0102/f74ac12a502d4290b898dab19d554e8b-microframe-sd.m3u8?hdnts=exp=1784244499_acl=/30479ad43c8a71f186b05114c0db0102/*_hmac=41a834b25aa404702ea797c21c34a4279ad4976ed9549d673fdbee07364f1c40
