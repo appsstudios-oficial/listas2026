@@ -291,8 +291,8 @@ http://38.199.4.105:9999/play/1119/index.m3u8
 http://38.199.4.105:9999/play/1119/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSPORTS3
 https://jwzrh.vivolatamz.org/lb03/dsports/index.m3u8?token=8bef68f8424238653faf015952fe168c83172a24-6e-1783348543-1783294543&ip=186.60.0.148
-#EXTINF:-1 group-title="Deportes",Evento Deportivo Privado_no funciona en otros reproductores_ Futbol Fullhd esclusivo de servidor Cristian
-https://djtzg.crislatamz.org/lb/index.m3u8?token=7f3c2acbfbd4a97d01e1787ca665543021149-3b-3689054783635054&ip=156.6.61.0
+#EXTINF:-1 group-title="Deportes",Evento Deportivo Privado_no funciona en otros reproductores_ Futbol Fullhd esclusivo de servidor 2 Cristian
+https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/e2270ed9-9dd4-4fd6-95d2-745e1df5679f:CBF2/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8?aid=69dfb44d09ecc98dc876969f&uid=fjvijXiqKXQ7UBIZjvfjMgIIzDDSvXN6&sid=Gy2g3e7pVHLzGxxJtM6dtGg2NIqQemRs&pid=gWsZxVILabg6TG01r3ohdue8WfqA9AJG&pid_dvr=ly2iHKuFzs0MdgTXp55RRArQqhCi5pjh&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=D28GK3ITL3NKe4SOq58n9tfjqW12y8kDUk8v2uQtPQzFhekgjHFCVFMDDsujlZ0UWIr9cQsWTB2&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D1800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22gWsZxVILabg6TG01r3ohdue8WfqA9AJG%22%2Csu&adInsertionGoogleStreamId=e2270ed9-9dd4-4fd6-95d2-745e1df5679f%3ACBF2&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1783895128811&ot=P0QAje7BvXziiakcGiFHGg&proto=https&pz=us
 #EXTINF:-1 group-title="Deportes",WIN +
 http://181.78.0.107:8006/play/a06r/index.m3u8
 http://38.224.175.2:8000/play/a0l4/index.m3u8
