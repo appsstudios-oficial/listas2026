@@ -20,7 +20,9 @@ http://38.199.4.105:9999/play/a0xo/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Internacional
 http://181.224.255.210:8001/play/a0q5/index.m3u8
 #EXTINF:-1 group-title="Variedades",00 - Telefe Argentina
-https://live.eu-north-1b.cf.dmcdn.net/sec2(IEmQGGjOKxX8PazNGfdu4xLedjXMz-ZTtLQ9BOZhBGGpYl4ZJ55DTSFtigtflWLKvO6NzqjzCAT-h8uNQiqq-znQ__J4XX37aPzAKEzQyP2rvmFnyqSYyXlkWPb4eGch)/dm/3/xaafjc0/s/live-720.m3u8#cell=lcf-eu-north-1b
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/23c5b7f0-8b55-4e70-a6a2-ade500f73c9b:TUL/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8?aid=69dfb44d09ecc98dc876969f&uid=fjvijXiqKXQ7UBIZjvfjMgIIzDDSvXN6&sid=Gy2g3e7pVHLzGxxJtM6dtGg2NIqQemRs&pid=KdZ1Lax4M3hDxmvKgvAiwcPqHBxSyZ1i&pid_dvr=ZKg12ROXobCWhyUj02OYf21hVxQNdc4u&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=TdAwL0XHoDerDMJeQy2WOWmXxNcu2zREF2byzodHgW0W4qECyTNUNtkItExxSSEF2bdTSLr9TMv&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22KdZ1Lax4M3hDxmvKgvAiwcPqHBxSyZ1i%22%2Csu&adInsertionGoogleStreamId=23c5b7f0-8b55-4e70-a6a2-ade500f73c9b%3ATUL&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1783896103697&ot=ULD54UnHI-53CPF8Rk_eeg&proto=https&pz=us
+#EXTINF:-1 group-title="Variedades",00 - Telefe Argentina 2
+https://live.eu-north-1b.cf.dmcdn.net/sec2(B2ZcW42jfL99fWCrpHIOwsHDtjo71DY3782gF7v8jq0Y-wOLnA6Jw-Anb_xLmSUH_STCbTuE99qawlbyevAnkKxC3XeK0Uxne5vxOsJTB6ZPKImlL6WGc-CJJFG_JmiK)/dm/3/xaekuuq/s/live-720.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 group-title="Variedades",TN
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="Variedades",Net Tv
